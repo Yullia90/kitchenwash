@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "kitchenwash",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://Yullia90.github.io/kitchenwash",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /kitchenwash/"
   },
   "repository": {
     "type": "git",
